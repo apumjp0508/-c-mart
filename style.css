@@ -251,7 +251,7 @@ body {
   }
 
   .badge {
-    width: 60px; /* バッジも小さめに */
+    width: 80px; /* バッジも小さめに */
   }
 
   .badge-wrap {
